@@ -1,0 +1,9 @@
+there's 3 file
+
+run at SnakeGame.java (cause main function is there of course);
+
+all the movement, action, apple spawn etc. is coded at GamePanel.java
+
+thank you for downloading the file
+
+enjoy the game!
